@@ -10,11 +10,11 @@ You will need to install
 * backupninja
 * cUrl
 
-Copy [mongodd.helper](https://raw.githubusercontent.com/h0x91b/backupninja-mongodb/master/mongodb.helper) into `/usr/share/backupninja/mongodb.helper`
+Copy [mongodb.helper](https://raw.githubusercontent.com/h0x91b/backupninja-mongodb/master/mongodb.helper) into `/usr/share/backupninja/mongodb.helper`
 
     curl -L https://raw.githubusercontent.com/h0x91b/backupninja-mongodb/master/mongodb.helper > /usr/share/backupninja/mongodb.helper
 
-Copy [mongodd](https://raw.githubusercontent.com/h0x91b/backupninja-mongodb/master/mongodb) into `/usr/share/backupninja/mongodb`
+Copy [mongodb](https://raw.githubusercontent.com/h0x91b/backupninja-mongodb/master/mongodb) into `/usr/share/backupninja/mongodb`
 
     curl -L https://raw.githubusercontent.com/h0x91b/backupninja-mongodb/master/mongodb > /usr/share/backupninja/mongodb
 
